@@ -1,5 +1,7 @@
 Author
+<Br>
 Ishwor Chandra Paudyal
+<Br>
 Data Analyst/ Python Developer
 
 # Web API Data Scraping & Analysis using Python
