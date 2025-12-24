@@ -1,1 +1,10 @@
+plt.figure()
+posts_per_user.plot(kind='bar')
+plt.title("Number of Posts per User")
+plt.xlabel("User ID")
+plt.ylabel("Total Posts")
+plt.tight_layout()
+
+plt.savefig("../images/posts_per_user.jpeg")
+plt.show()
 
