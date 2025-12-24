@@ -1,6 +1,6 @@
 Author
 <Br>
-Ishwor Chandra Paudyal
+Ishwor Chandra Paudyal (ICP)
 <Br>
 Data Analyst/ Python Developer
 
