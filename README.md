@@ -49,5 +49,6 @@ Web-API-Data-Scraping-Analysis/
    📊 Output
 
 Bar chart showing number of posts per user.
+- ![Number of post per user images](images/posts_per_user.jpeg)
 
 
